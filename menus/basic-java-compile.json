@@ -1,0 +1,59 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Basic Java Compile",
+        "submenu": [
+          {
+            "label": "Run File",
+            "command": "basic-java-compile:run"
+          },
+
+          {
+            "label": "Show Console",
+            "command": "basic-java-compile:show"
+          },
+
+          {
+            "label": "Stop",
+            "command": "basic-java-compile:stop"
+          },
+          {
+            "label": "Hide Console",
+            "command": "basic-java-compile:hide"
+          }
+        ]
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Basic Java Compile",
+          "submenu": [
+            {
+              "label": "Run File",
+              "command": "basic-java-compile:run"
+            },
+
+            {
+              "label": "Show Console",
+              "command": "basic-java-compile:show"
+            },
+
+            {
+              "label": "Stop",
+              "command": "basic-java-compile:stop"
+            },
+            {
+              "label": "Hide Console",
+              "command": "basic-java-compile:hide"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
