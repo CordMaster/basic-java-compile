@@ -1,7 +1,7 @@
 {
   "name": "basic-java-compile",
   "main": "./lib/basic-java-compile",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Run java files that work with the scanner in a command prompt",
   "author": "Alden Howard",
   "repository": "https://github.com/CordMaster/basic-java-compile.git",
