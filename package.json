@@ -1,13 +1,16 @@
 {
   "name": "basic-java-compile",
   "main": "./lib/basic-java-compile",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Run java files that work with the scanner in a command prompt",
   "author": "Alden Howard",
   "repository": "https://github.com/CordMaster/basic-java-compile.git",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": ["basic-java-compile:run", "basic-java-compile:show"],
+    "atom-workspace": [
+      "basic-java-compile:run",
+      "basic-java-compile:show"
+    ],
     "basic-compile-view": [
       "basic-java-compile:stop",
       "basic-java-compile:hide"
