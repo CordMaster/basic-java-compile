@@ -9,8 +9,8 @@ This package provides a simple shortcut to compile and execute standalone java f
 
 ## Keybinds
 * <kbd>Ctrl-Alt-R</kbd> : Run java file
-* <kbd>Ctrl-Alt-S</kbd> : Stop
-* <kbd>Ctrl-Alt-X</kbd> : Show console
+* <kbd>Ctrl-Alt-X</kbd> : Stop
+* <kbd>Ctrl-Alt-S</kbd> : Show console
 * <kbd>Ctrl-Alt-M</kbd> : Hide console
 
 ## Settings
