@@ -4,7 +4,7 @@ This package provides a simple shortcut to compile and execute standalone java f
 
 ## Setup
 * Install the package
-* **Set `JAVA_HOME` in your environment variables**
+* **Set `JAVA_HOME` in your environment variables (e.x: C:\Program Files\Java\jdk-x.x.x)**
 * Start running projects using the context menus or keybinds
 
 ## Keybinds
