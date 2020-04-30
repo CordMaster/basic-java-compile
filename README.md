@@ -4,8 +4,10 @@ This package provides a simple shortcut to compile and execute standalone java f
 
 ## Setup
 * Install the package
-* **Set `JAVA_HOME` in your environment variables (e.x: C:\Program Files\Java\jdk-x.x.x)**
+* **Set `JAVA_HOME` in your environment variables (e.x: `C:\Program Files\Java\jdk-x.x.x` for Windows or just `.` on Linux for open-jdk)**
 * Start running projects using the context menus or keybinds
+
+## If `JAVA_HOME` is not set you will need to set it in the basic-java-compile settings
 
 ## Keybinds
 * <kbd>Ctrl-Alt-R</kbd> : Run java file
@@ -19,4 +21,5 @@ This package provides a simple shortcut to compile and execute standalone java f
 * Text Size: The font size in the panel
 * Panel Height: The height of the panel
 
-## If `JAVA_HOME` is not set you will need to set it in settings
+## Questions? Comments? Bugs?
+Submit a request at my [GitHub repository](https://github.com/CordMaster/basic-java-compile)
