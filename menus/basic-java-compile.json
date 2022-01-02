@@ -5,8 +5,13 @@
         "label": "Basic Java Compile",
         "submenu": [
           {
-            "label": "Run File",
+            "label": "Run Project",
             "command": "basic-java-compile:run"
+          },
+
+          {
+            "label": "Run File (no compilation; requires Java 11+)",
+            "command": "basic-java-compile:run-file"
           },
 
           {
@@ -34,8 +39,13 @@
           "label": "Basic Java Compile",
           "submenu": [
             {
-              "label": "Run File",
+              "label": "Run Project",
               "command": "basic-java-compile:run"
+            },
+
+            {
+              "label": "Run File (no compilation; requires Java 11+)",
+              "command": "basic-java-compile:run-file"
             },
 
             {

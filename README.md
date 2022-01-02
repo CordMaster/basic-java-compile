@@ -11,6 +11,7 @@ This package provides a simple shortcut to compile and execute standalone java f
 
 ## Keybinds
 * <kbd>Ctrl-Alt-R</kbd> : Run java file
+* <kbd>Ctrl-Alt-Shift-R</kbd> : Run java file (standalone; does not generate class files)
 * <kbd>Ctrl-Alt-X</kbd> : Stop
 * <kbd>Ctrl-Alt-S</kbd> : Show console
 * <kbd>Ctrl-Alt-M</kbd> : Hide console

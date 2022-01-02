@@ -9,6 +9,7 @@
   "activationCommands": {
     "atom-workspace": [
       "basic-java-compile:run",
+      "basic-java-compile:run-file",
       "basic-java-compile:show"
     ],
     "basic-compile-view": [

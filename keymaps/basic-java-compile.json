@@ -1,6 +1,7 @@
 {
   "atom-workspace": {
     "ctrl-alt-r": "basic-java-compile:run",
+    "ctrl-alt-shift-r": "basic-java-compile:run-file",
     "ctrl-alt-s": "basic-java-compile:show",
     "ctrl-alt-x": "basic-java-compile:stop",
     "ctrl-alt-m": "basic-java-compile:hide"
