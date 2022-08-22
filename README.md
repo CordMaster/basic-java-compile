@@ -1,5 +1,9 @@
 # Basic Java Compile
 
+## NO LONGER MAINTAINED DUE TO SUNSET OF ATOM
+
+## About
+
 This package provides a simple shortcut to compile and execute standalone java files. Unlike other packages that support java file execution, the goal of this package is to support standard I/O with the scanner.
 
 ## Setup
